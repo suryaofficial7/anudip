@@ -1,0 +1,34 @@
+* {
+  color: blue;
+}
+
+#head1 {
+  color: red;
+}
+
+#head5 {
+  color: violet;
+}
+.head {
+  text-align: center;
+}
+
+.para {
+  color: green;
+}
+
+#para1 {
+  text-align: center;
+}
+
+#para2 {
+  text-align: left;
+}
+
+#para3 {
+  text-align: right;
+}
+
+#para4 {
+  text-align: justify;
+}
